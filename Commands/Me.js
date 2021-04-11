@@ -49,7 +49,7 @@ exports.run = async (client, message, args) => {
     .setThumbnail(message.author.avatarURL({dynamic: true}))
     .addField("Kullanıcı Bilgi",` 
     
-    \`Nickname:\` ${message.member.displayName}
+    \`Nickname:\` ${(message.member.displayName).replace(/\`/, '')}
     \`ID:\` ${message.author.id} 
     \`Roles:\` ${message.member.roles.cache.size >= 5 ? "Roller çok fazla..." : message.member.roles.cache.map(role => role.toString())}
     \`Oluşturulma:\` ${moment(cmember.user.createdAt).format("DD/MM/YYYY")}
