@@ -1,7 +1,7 @@
 # Discord Stat Bot
 
 
- - [Discord SuperVisor Bot](https://github.com/beT4w/bet4Stats)
+ - [Discord Stat Bot](https://github.com/beT4w/bet4Stats)
       - [Kurulum](#kurulum)
       - [İçerikler](#İçerikler)
       - [İletişim](#İletişim)
