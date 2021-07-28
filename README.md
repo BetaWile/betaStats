@@ -8,6 +8,13 @@
       - [FAQ](#faq)
 
 
+<div align="center">
+   <a href="https://github.com/BetaWile">
+      <img src="https://betaaa.has-a-hot.mom/55orRHk8J.gif">
+   </a>
+</div>
+
+
 # Kurulum
 * İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
 * Bu projeyi zip halinde indir.
