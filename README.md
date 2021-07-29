@@ -1,7 +1,7 @@
 # Discord Stat Bot
 
 
- - [Discord Stat Bot](https://github.com/beT4w/betaStats)
+ - [Discord Stat Bot](https://github.com/BetaWile/betaStats)
       - [Kurulum](#kurulum)
       - [İçerikler](#İçerikler)
       - [İletişim](#İletişim)
