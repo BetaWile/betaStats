@@ -44,7 +44,7 @@ fs.readdir('./src/Command', (err, files) => {
   });
 
 client.on('message', async(message) => {
-  if(!message.guild || message.author.bot || message.content.startsWith(client.prefix)) return;
+  if(!message.guild || message.author.bot || message.content.startsWith(Main.prefix)) return;
   db.add(`messageData.${message.author.id}.channel.${message.channel.id}`, 1);
   db.push(`messageData.${message.author.id}.times`, {time: Date.now(), puan: 1})
 });
