@@ -1,0 +1,19 @@
+{
+  "name": "discord-stat-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "beta.js",
+  "scripts": {
+    "test": "node beta.js"
+  },
+  "author": "Beta",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3"
+  }
+}
